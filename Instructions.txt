@@ -1,0 +1,7 @@
+----------Skel'attack----------
+
+- Build walls to prevent the skeletons from getting your chest
+- Kill skeletons buy walking on them to increase your score
+- Survive the longest to best your score
+
+- Do not build walls that would totally prevent skeletons from walking to your chest, as their is no protection
